@@ -1,4 +1,4 @@
-# BouncyCastleDemo
+# bouncy-castle-demo
 BouncyCastle Demo Java Project
 
 RSA암복호화 및 ECC암복화 테스트를 위한 자바프로젝트
